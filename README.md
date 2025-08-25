@@ -1,0 +1,2 @@
+# eventeasy-privacy
+EE privacy
